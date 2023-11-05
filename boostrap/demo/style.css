@@ -1,0 +1,12 @@
+.navbar {
+  background: blue !important;
+}
+h1 {
+  text-align: center;
+}
+hr {
+  margin: 0px;
+}
+li {
+  list-style-type: none;
+}
